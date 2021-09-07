@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.tode-card{
+    width:90vw;
+    padding:15px;
+    color:light-gray;
+}
